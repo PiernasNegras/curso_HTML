@@ -1,6 +1,6 @@
 # Proyecto de HTML y CSS: Dinámica del Pingüino y Web de Gatitos 🐧🐱
 
-Este repositorio contiene un proyecto sencillo creado para demostrar habilidades en HTML y CSS. La finalidad es exhibir conocimientos en diseño y desarrollo web básico, aplicando elementos como imágenes, bordes y estilos. ¡Perfecto para quienes desean explorar conceptos básicos de programación web!
+Este repositorio contiene un proyecto sencillo creado para demostrar habilidades en HTML y CSS. La finalidad es exhibir conocimientos en diseño y desarrollo web básico, aplicando elementos como imágenes, bordes y estilos. ¡Perfecto para quienes desean explorar conceptos de programación web!
 
 ## Características del proyecto
 
@@ -27,4 +27,4 @@ Experimenta con la dinámica del pingüino presionando los botones para ver cóm
 Explora la web de gatitos y observando los estilos aplicados.
 
 Autor
-Este proyecto fue desarrollado por Nahuel Martínez como parte de su formación en Licenciatura en Gestión de Tecnologías de la Información en la Universidad Nacional de José C. Paz. Puedes conocer más sobre Nahuel en mi perfil de LinkedIn.
+Este proyecto fue desarrollado por Nahuel Martínez como parte de mi formación en la Licenciatura en Gestión de Tecnologías de la Información en la Universidad Nacional de José C. Paz. Puedes conocer más sobre mi en mi perfil de LinkedIn.
