@@ -1,0 +1,72 @@
+body {
+  color: rgb(17, 11, 11);
+  background-color: silver;
+  background: url(imagenes/fondo.jpg) no-repeat center center/cover;
+}
+
+h1{
+  font-family: "Whisper", cursive;
+  font-size: 50px;
+}
+
+h2{
+  font-size: 28px;
+}
+
+h3{
+  font-size: 25px;
+}
+
+p,
+ul,
+ol{
+  font-size: 15px;
+}
+
+img {
+  width: 400px;
+}
+
+.gato {
+  border-radius: 20px;
+  margin-bottom: 5px;
+}
+
+.mas-gatos {
+  border-width: 5px;
+  border-color: rgb(93, 209, 170);
+  border-style: ridge
+}
+
+#gato-gris {
+  border-width: 20px;
+}
+
+#lista-de-gatos-aman {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#lista-de-gatos-odian {
+  color: blue;
+}
+
+a[href]{
+  text-decoration: gold wavy underline;
+}
+
+a[href="https://www.unpaz.edu.ar/gestiontecnologias"],
+[href="https://static.vecteezy.com/system/resources/previews/006/459/933/non_2x/the-cat-has-gray-stripes-black-and-white-secrets-free-photo.JPG"] {
+  text-decoration: none;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9f9f9;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+}

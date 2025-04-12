@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <title>AppDeMichis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Whisper&display=swap" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+  <link rel="icon" type="img/png" href="imagenes/gatito.png">
+</head>
+
+<body>
+  <h1>App de michis</h1>
+  <main>
+    <a href="#parrafo-1">Los Gatos Domésticos</a>
+    <a href="#parrafo-2">Razas de Gatos</a>
+    <a href="#parrafo-3">Cuidado de los Gatos</a>
+    <a href="#parrafo-4">Curiosidades sobre los Gatos</a>
+    <a href="#5">Mas fotos de michis</a>
+
+    <h2 id="parrafo-1">Los Gatos Domésticos</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlw2HMxrjYL9PguaBc5mrJwLHg9So_wCKWw&usqp=CAU"
+      alt="Un hermoso michi" class="gato"><br>
+    <img src="imagenes/michi.jpeg" alt="ojos de michi" id="gato-gris"><br>
+    <p>Hace click para ver mas <a
+        href="https://static.vecteezy.com/system/resources/previews/006/459/933/non_2x/the-cat-has-gray-stripes-black-and-white-secrets-free-photo.JPG"
+        target="_blank" rel="noopener noreferrer">imagenes</a></p>
+
+
+    <p>Los gatos domésticos, también conocidos como <em>felis catus</em>, son mascotas populares en todo el mundo. Son
+      animales independientes y cariñosos. Algunas características comunes de los gatos incluyen:</p>
+    <ul>
+      <li>Pelaje: Los gatos pueden tener pelajes variados, como corto, largo, rizado o sin pelo.</li>
+      <li>Comportamiento: Son cazadores naturales y les encanta jugar con juguetes como ratones de peluche o bolas de
+        lana.</li>
+      <li>Ronroneo: Los gatos ronronean cuando están contentos o relajados.</li>
+    </ul>
+
+    <h2 id="parrafo-2">Razas de Gatos</h2>
+    <p>Existen muchas razas de gatos, cada una con sus propias características distintivas:</p>
+    <ul>
+      <li>Siameses: Con pelaje corto y ojos azules intensos.</li>
+      <li>Maine Coon: Son grandes y peludos, conocidos como los "gigantes amables".</li>
+      <li>Persas: Tienen un pelaje largo y una cara achatada.</li>
+      <li>Bengalíes: Tienen un pelaje moteado similar al de los leopardos.</li>
+    </ul>
+
+    <h2 id="parrafo-3">Cuidado de los Gatos</h2>
+    <p>Para cuidar bien a los gatos:</p>
+    <ul>
+      <li>Alimentación: Los gatos necesitan una dieta equilibrada con proteínas y vitaminas.</li>
+      <li>Higiene: Debes cepillar su pelaje regularmente y <s>recortar sus uñas</s>.</li>
+      <li>Visitas al Veterinario: Es importante llevar a tu gato al veterinario para chequeos regulares y vacunas.</li>
+    </ul>
+
+    <h2 id="parrafo-4">Curiosidades sobre los Gatos</h2>
+    <p>Algunos datos interesantes sobre los gatos:</p>
+    <ul class="lista-de-gatos">
+      <li>Son saltadores expertos: Pueden salta r hasta cinco veces su altura.</li>
+      <li>Son más activos durante la noche debido a su naturaleza cazadora.</li>
+      <li>Sus bigotes son <em>sensibles</em> y les ayudan a detectar movimientos.</li>
+    </ul>
+
+    <div>
+      <h2>Cosas que los gatos <strong>aman</strong></h2>
+      <ol id="lista-de-gatos-aman">
+        <li>Menta para gatos</li>
+        <li>Punteros laser</li>
+        <li>Lasaña</li>
+      </ol>
+
+      <h2>Cosas que los gatos <strong>odian</strong></h2>
+      <ol id="lista-de-gatos-odia">
+        <li>Tratamiento antipulgas</li>
+        <li>Truenos</li>
+        <li>Otros <strong>gatos</strong></li>
+      </ol>
+    </div>
+    <img src="imagenes/mish.jpg" alt="un gato gris" class="mas-gatos">
+
+    <hr>
+
+    <p>Que prefiere tu gato ?</p>
+
+    <form action="/imagenes/mish.jpg">
+
+      <!--BOTONES DE RADIO-->
+      <label for="interior">
+        <input type="radio" id="interior" name="Interior-Exterior" value="interior">Interior
+      </label><br>
+
+      <label for="exterior">
+        <input type="radio" id="exterior" name="Interior-Exterior" checked value="exterior">Exterior
+      </label><br>
+
+      <!--Casillas de verificacion-->
+      <label for="carinoso">
+        <input id="carinoso" type="checkbox" name="personalidad" checked value="carinoso">Cariñoso
+      </label><br>
+
+      <label for="jugueton">
+        <input type="checkbox" id="jugueton" name="personalidad" value="jugueton">Jugueton
+      </label><br>
+
+      <label for="dormilon">
+        <input type="checkbox" id="dormilon" name="personalidad" value="dormilon">Dormilon
+      </label> <br>
+
+      <label for="energico">
+        <input type="checkbox" id="energico" name="personalidad" value="energico">Energico
+      </label><br>
+
+      <label for="amargado">
+        <input type="checkbox" id="amargado" name="personalidad" value="amargado">Amargado
+      </label><br>
+
+      <!--Texto y boton enviar-->
+      <input type="text" placeholder="Nombre de tu gato" required><br>
+      <button type="submit">Enviar</button>
+    </form>
+
+    <h2 id="5">Mas fotos de gatos</h2>
+    <img src="https://p4.wallpaperbetter.com/wallpaper/937/547/580/animals-cat-wallpaper-preview.jpg" class="mas-gatos">
+
+  </main>
+
+  <footer>
+    <p>
+      <small>Desarrollado por el estudiante en 
+        <a href="https://www.unpaz.edu.ar/gestiontecnologias"target="_blank"> Lic. en Gestión de Tecnologías de la Información</a> 
+        de la 
+        <strong>Universidad Nacional de José C. Paz</strong> -
+        <a href="https://www.linkedin.com/in/nahuel-martinez-7b898a218/"target="_blank"><strong>Nahuel Martinez</strong></a> 
+      </small>
+    </p>
+  </footer>
+</body>
+
+</html>
