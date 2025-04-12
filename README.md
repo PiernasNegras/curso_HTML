@@ -27,4 +27,4 @@ Experimenta con la dinámica del pingüino presionando los botones para ver cóm
 Explora la web de gatitos y observando los estilos aplicados.
 
 Autor
-Este proyecto fue desarrollado por Nahuel Martínez como parte de mi formación en la Licenciatura en Gestión de Tecnologías de la Información en la Universidad Nacional de José C. Paz. Puedes conocer más sobre mi en mi perfil de LinkedIn.
+Este proyecto fue desarrollado por Nahuel Martínez como parte de mi formación en la Licenciatura en Gestión de Tecnologías de la Información en la Universidad Nacional de José C. Paz. Puedes conocer más sobre mi en mi perfil de [Linkedin.](https://www.linkedin.com/in/nahuel-martinez-7b898a218/)
