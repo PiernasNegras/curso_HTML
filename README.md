@@ -1,5 +1,5 @@
 # Proyecto de HTML y CSS: Dinámica del Pingüino y Web de Gatitos 🐧🐱
-
+![Epigrafe](./curso_html/Pinguino/pinguino.jpg "Gonder")
 Este repositorio contiene un proyecto sencillo creado para demostrar habilidades en HTML y CSS. La finalidad es exhibir conocimientos en diseño y desarrollo web básico, aplicando elementos como imágenes, bordes y estilos. ¡Perfecto para quienes desean explorar conceptos de programación web!
 
 ## Características del proyecto
